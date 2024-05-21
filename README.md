@@ -13,7 +13,7 @@
  |4 ||||
  |5 ||||
  
-## 24.05.21 
+## ＃ 24.05.21 
 ### < Activity 1 >  (For reading and understanding the story)
 - Group activities - Sequencing stories using 6-cut cartoons 💥 
 - Required Tools: Hugging Face
