@@ -1,1 +1,1 @@
-# G3-finalproject
+# G3 - 🐈 Final project 🐈
