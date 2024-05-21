@@ -14,8 +14,8 @@
  |5 ||||
  
 ## 24.05.21 
-### example 1 (For reading and understanding the story)
-< Group activities - Sequencing stories using 6-cut cartoons 💥 >
+### < example 1 >  (For reading and understanding the story)
+- Group activities - Sequencing stories using 6-cut cartoons 💥 
 - Required Tools: Hugging Face
 1. Read the story given in each group and summarize it into 6 sentences.
 2. Input the summarized sentence into the hugging face and output it as a picture.
