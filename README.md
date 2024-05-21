@@ -1,7 +1,12 @@
-# G3 - 🐈 Final project 🐈
-## To-do list
+# G3 🐈 Final project 🐈
+## Jungmin Kim, Seohyun Jung, Suhyun Cho
+## 1. To-do list (A presupposed frame work)
+-
+-
+-
+-
 
-## Log 🗓️
+## 2. Log 🗓️
 |num|date|contents|remarks|
  |--|--|--|--|
  |1 |24.05.21|||
