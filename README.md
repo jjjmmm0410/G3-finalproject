@@ -1,4 +1,9 @@
-# G3 🐈 Final project 🐈
+# G3  Final project 💭
+## assignment of roles
+- Main presenter : Suhyun Cho
+- Teacher : Seohyun Jung
+- student : Jungmin Kim
+
 ## 1. To-do list (A presupposed frame work)
 - To determine the educational target
 - To set the educational content
@@ -8,7 +13,7 @@
 |num|date|contents|remarks|
  |--|--|--|--|
  |1 |24.05.21|We set the framework for the English class.||
- |2 |24.05.28|||
+ |2 |24.05.28|We each determined our roles and discussed the new activities.||
  |3 ||||
  |4 ||||
  |5 ||||
