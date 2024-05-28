@@ -7,8 +7,8 @@
 ## 2. Log 🗓️
 |num|date|contents|remarks|
  |--|--|--|--|
- |1 |24.05.21|||
- |2 ||||
+ |1 |24.05.21|We set the framework for the English class.||
+ |2 |24.05.28|||
  |3 ||||
  |4 ||||
  |5 ||||
