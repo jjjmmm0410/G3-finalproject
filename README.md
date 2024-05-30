@@ -1,5 +1,5 @@
 # G3  Final project 💭
-## assignment of roles
+## Assignment of roles
 - Main presenter : Suhyun Cho
 - Teacher : Seohyun Jung
 - student : Jungmin Kim
@@ -26,4 +26,6 @@
 2. Input the summarized sentence into the hugging face and output it as a picture.
 3. Mix the order of the pictures randomly and exchange it with another group.
 4. Complete the story by combining the pictures of different groups in order.
+### < Activity 2> (Writing & Speaking)
+### < Activity 3> (Listening)
 
