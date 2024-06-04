@@ -14,7 +14,7 @@
  |--|--|--|--|
  |1 |24.05.21|We set the framework for the English class.||
  |2 |24.05.28|We each determined our roles and discussed the new activities.||
- |3 |24.06.04|||
+ |3 |24.06.04|We discussed the details of the main activity today and deliberated on what code to use for each activity.|
  |4 ||||
  |5 ||||
  
