@@ -18,16 +18,31 @@
  |4 ||||
  |5 ||||
  
-## ＃ 24.05.21 
-### < Activity 1 >  (For reading and understanding the story)
+## Activity 1 - Sequencing stories using 6-cut cartoons 💥 (24.05.21)
+- Objectives 📝
+  1. Students can improve their listening skills by listening to a story narrated with accurate pronunciation by AI.
+  2. Students can gain a clear understanding of the story that will also be used in the main activity.
 
-- Group activities - Sequencing stories using 6-cut cartoons 💥 
-- Required Tools: Hugging Face
-1. Read the story given in each group and summarize it into 6 sentences.
-2. Input the summarized sentence into the hugging face and output it as a picture.
-3. Mix the order of the pictures randomly and exchange it with another group.
-4. Complete the story by combining the pictures of different groups in order.
-### < Activity 2> (Writing & Speaking) (Main topic)
+- Group activities 
+ 
+- Required Tools 💻
+  * Hugging Face
+  * Colab
 
-### < Activity 3> (Listening) 
+- Contents 💬
+1. The teacher explains the story to the students.
+   * Students understand the story through videos.
+   * The story video was pre-made by the teacher using a tool called 'Steve I'.
+2. After watching the video, students are provided with the summary text.
+3. Students summarize the overall story in four sentences
+   * Without using the provided sentences in text.
+   * Write down a sentence that you've come up with yourself. 
+   * Using ChatGPT to create sentences is also fine.
+4. Students use Hugging Face to generate four images based on the four sentences.
+5. The four images generated are exchanged among groups of students to arrange them in the correct sequence.
+   * We plan to use Google Colab for coding for this activity (not yet finalized).
+  
+## < Activity 2> (Writing & Speaking) (Main topic)
+
+## < Activity 3> (Listening) 
 
