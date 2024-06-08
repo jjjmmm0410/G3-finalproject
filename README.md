@@ -3,14 +3,14 @@
 ## Assignment of roles
 - Main presenter : Suhyun Cho
 - Teacher : Seohyun Jung
-- student : Jungmin Kim
+- Student : Jungmin Kim
 
 ## 🗓️ Log 
 |num|date|contents|remarks|
  |--|--|--|--|
  |1 |24.05.21|We set the framework for the English class.||
  |2 |24.05.28|We each determined our roles and discussed the new activities.||
- |3 |24.06.04|We discussed the details of the main activity today and deliberated on what code to use for each activity.|
+ |3 |24.06.04|We discussed the details of the main activity and deliberated on what code to use for each activity.|
  |4 |24.06.10|||
  |5 ||||
 
