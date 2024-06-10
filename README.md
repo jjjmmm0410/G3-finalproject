@@ -18,9 +18,8 @@
 
 🗣️ Students will be able to ﹒﹒﹒
 
- 1.
- 2.
- 3.
+ 1. Use a variety of digital tools.
+ 2. Enhance their reading and speaking skills through Activity 1 and Activity 2.
 
 ## 🌈 Warm up! - Learning vocabulary from the story 🔠
 
