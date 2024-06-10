@@ -25,10 +25,16 @@
 ## 🌈 Warm up! - Learning vocabulary from the story 🔠
 
 📍 Objective
-  1. 
-📍 Required Tools 
-📍 Contents 💬
+  1. Students can preview the vocabulary that will be used in the main activity.
 
+📍 Required Tools 
+  * Word cloud
+  * Word quiz game cording
+
+📍 Contents 💬 
+ 1. The teacher creates a word cloud💭 with the vocabulary from the story that will be used in the lesson.
+ 2. The teacher presents it as a visual aid to the students.
+ - About 
 
 ## 🌈 Activity 1 - Sequencing stories using 6-cut cartoons 💥 (24.05.21)
 
