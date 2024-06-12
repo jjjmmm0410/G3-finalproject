@@ -11,29 +11,38 @@
  |1 |24.05.21|We set the framework for the English class.||
  |2 |24.05.28|We each determined our roles and discussed the new activities.||
  |3 |24.06.04|We discussed the details of the main activity and deliberated on what code to use for each activity.|
- |4 |24.06.10|||
- |5 ||||
+ |4 |24.06.10|We wrote the presentation script and then had a session where everyone shared the code they had prepared.|
+ |5 |24.06.17|We finished by doing a final rehearsal of the presentation and then wrapped things up.|
 
 ## 🧑🏻‍🏫 Overall lesson objectives 
 
 🗣️ Students will be able to ﹒﹒﹒
 
- 1. Use a variety of digital tools.
- 2. Enhance their reading and speaking skills through Activity 1 and Activity 2.
+ ☝🏻 Use a variety of digital tools.
+ ✌🏻 Enhance their reading and speaking skills through Activity 1 and Activity 2.
 
-## 🌈 Warm up! - Learning vocabulary from the story 🔠
 
-📍 Objective
-  1. Students can preview the vocabulary that will be used in the main activity.
+## 🌈 Warm up! - Let's learn vocabulary 🔠
 
-📍 Required Tools 
-  * Word cloud
-  * Word quiz game cording
+#### 📍 Objective
+  🗣️ Students can preview the vocabulary that will be used in the main activity.
 
-📍 Contents 💬 
+#### 📍 Required Tools 
+  * Word cloud 💭
+  * Word audio file coding 🎧
+  * Word image game coding 📷
+
+#### 📍 Contents 
  1. The teacher creates a word cloud💭 with the vocabulary from the story that will be used in the lesson.
- 2. The teacher presents it as a visual aid to the students.
- - About 
+ 2. The teacher presents it as a visual aid to the students and explains the words
+ 3. Students are then given time to learn the vocabulary using audio files.
+ 4. The teacher tests the students through a word image game.
+
+
+ ### About Word cloud 💭
+ ### About Word audio file coding 🎧
+ ### About Word image game coding 📷
+ 
 
 ## 🌈 Activity 1 - Sequencing stories using 6-cut cartoons 💥 (24.05.21)
 
