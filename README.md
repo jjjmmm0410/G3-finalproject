@@ -39,9 +39,15 @@
  4. The teacher tests the students through a word image game.
 
 
- ### About Word cloud 💭
- ### About Word audio file coding 🎧
- ### About Word image game coding 📷
+ ### 💭 About 'word cloud'  
+ ![image](https://github.com/jjjmmm0410/G3-finalproject/assets/130952709/9f7b9e74-c8d3-494e-b075-0abbc308f643)
+
+ - Teacher created a word cloud with the key terms from the story.
+ - Words that students are likely unfamiliar with are displayed larger.
+
+ ### 🎧About 'word audio file coding' 
+ 
+ ### 📷About 'word image game coding'
  
 
 ## 🌈 Activity 1 - Sequencing stories using 6-cut cartoons 💥 (24.05.21)
