@@ -37,7 +37,7 @@
   |order|content|
   |--|--|
   |1| The teacher creates a word cloud💭 with the vocabulary from the story that will be used in the lesson.|
- |2| The teacher presents it as a visual aid to the students and explains the words|
+ |2| The teacher presents it as a visual aid to the students and explains the words.|
  |3| Students are then given time to learn the vocabulary using audio files.|
  |4|The teacher tests the students through a word image game.|
 
@@ -112,7 +112,7 @@ Click and read ➡️ https://ea1f1de02b1ef175a5.gradio.live
 ## 🌈 Main activity - Reconstructing the Story with given keywords 🖋️
 
 #### 📍 Objectives 
-🗣️ students can develop reading skills by continuing to write stories that fit keywords.
+🗣️ Students can develop reading skills by continuing to write stories that fit keywords.
 
 #### 📍 Required Tools 
 
