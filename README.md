@@ -61,6 +61,7 @@
 
 #### 📍 Objectives 
   🗣️ Students can improve their listening skills by listening to a story narrated with accurate pronunciation by AI.
+  
   🗣️ Students can gain a clear understanding of the story that will also be used in the main activity.
 
 
@@ -73,7 +74,7 @@
   * ChatGPT
 
 
-#### 📍 Contents 💬
+#### 📍 Contents 
 1. The teacher explains the story to the students.
    * Students understand the story through videos.
    * The story video was pre-made by the teacher using a tool called 'Steve I'.
@@ -86,12 +87,21 @@
 5. The four images generated are exchanged among groups of students to arrange them in the correct sequence.
   
 ### 💥 About random 4cut code 
-#### click! ➡️ (그라디오링크삽입)
+ #### click! ➡️ (그라디오링크삽입)
 
 - A tool that takes four photos created by students, shuffles them randomly
 - allowing input for the correct sequence.
 
-## < Activity 2> (Writing & Speaking) (Main topic)
 
-## < Activity 3> (Listening) 
+## 🌈 Main activity - Reconstructing the Story with Given Keywords 🖋️
 
+#### 📍 Objectives 
+#### 📍 Required Tools 
+#### 📍 Contents 
+
+
+## 🌈 (Homework???미정) Activity 3 - Audio test 👂🏻
+
+#### 📍 Objectives 
+#### 📍 Required Tools 
+#### 📍 Contents 
