@@ -52,7 +52,10 @@
  - Students can learn the correct pronunciation and meaning of the words.
  
  ### 📷About 'word image game coding'
- 
+ #### click! ➡️ https://c68192eeea60abfa17.gradio.live
+
+- A tool for students to learn words in an engaging way
+- A game where students guess related words from today's vocabulary based on an image.
 
 ## 🌈 Activity 1 - Sequencing stories using 6-cut cartoons 💥 (24.05.21)
 
