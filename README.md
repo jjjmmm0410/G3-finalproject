@@ -46,6 +46,10 @@
  - Words that students are likely unfamiliar with are displayed larger.
 
  ### 🎧About 'word audio file coding' 
+ #### click! ➡️ https://1567dc0ff8a9eeffeb.gradio.live
+
+ - A tool for learning words not covered in class by the teacher.
+ - Students can learn the correct pronunciation and meaning of the words.
  
  ### 📷About 'word image game coding'
  
