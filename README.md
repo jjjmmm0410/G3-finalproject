@@ -1,9 +1,10 @@
-# G3  Final Project ✏️
+# G3 Final Project 🐳
 
 ## Assignment of roles
-- Main presenter : Suhyun Cho
-- Teacher : Seohyun Jung
-- Student : Jungmin Kim
+ #### 🎤 Main presenter : Suhyun Cho
+ #### 👩🏻‍🏫 Teacher : Seohyun Jung
+ #### 👨🏻‍🎓 Student : Jungmin Kim
+
 
 ## 🗓️ Log 
 |num|date|contents|remarks|
@@ -18,8 +19,8 @@
 
 🗣️ Students will be able to ﹒﹒﹒
 
- ☝🏻 Use a variety of digital tools.
- ✌🏻 Enhance their reading and speaking skills through Activity 1 and Activity 2.
+ #### ☝🏻 Use a variety of digital tools.
+ #### ✌🏻 Enhance their reading and speaking skills through Activity 1 and Activity 2.
 
 
 ## 🌈 Warm up! - Let's learn vocabulary 🔠
