@@ -34,10 +34,12 @@
   * Word image game coding 📷
 
 #### 📍 Contents 
- 1. The teacher creates a word cloud💭 with the vocabulary from the story that will be used in the lesson.
- 2. The teacher presents it as a visual aid to the students and explains the words
- 3. Students are then given time to learn the vocabulary using audio files.
- 4. The teacher tests the students through a word image game.
+  |order|content|
+  |--|--|
+  |1| The teacher creates a word cloud💭 with the vocabulary from the story that will be used in the lesson.|
+ |2| The teacher presents it as a visual aid to the students and explains the words|
+ |3| Students are then given time to learn the vocabulary using audio files.|
+ |4|The teacher tests the students through a word image game.|
 
 
  ### 💭 About 'word cloud'  
@@ -58,6 +60,9 @@
 - A tool for students to learn words in an engaging way
 - A game where students guess related words from today's vocabulary based on an image.
 
+
+
+
 ## 🌈 Activity 1 - Sequencing stories using 6-cut cartoons 💥 
 
 #### 📍 Objectives 
@@ -76,19 +81,15 @@
 
 
 #### 📍 Contents 
-1. The teacher explains the story to the students.
-   * Students understand the story through videos.
-   *  ####  viedo link click! ➡️ (비디오 링크 삽입)
-   * The story video was pre-made by the teacher using a tool called 'Steve I'.
-2. After watching the video, students are provided with the summary text.
-3. Students summarize the overall story in four sentences.
-   * Without using the provided sentences in text.
-   * Write down a sentence that you've come up with yourself. 
-   * Using ChatGPT to create sentences is also fine.
-4. Students use Hugging Face to generate four images based on the four sentences.
-5. The four images generated are exchanged among groups of students to arrange them in the correct sequence.
+   |order|content|remark|
+   |--|--|--|
+   |1|The teacher explains the story to the student through video | viedo link click! ➡️ (비디오 링크 삽입) |
+   |2| After watching the video, students are provided with the summary text.||
+   |3|Students summarize the overall story in four sentences. | ✏️Without using the provided sentences in text. ✏️Write down a          sentence that you've come up with yourself. ✏️Using ChatGPT to create sentences is also fine. |
+   |4| Students use Hugging Face to generate four images based on the four sentences.|
+   |5| The four images generated are exchanged among groups of students to arrange them in the correct sequence.|
 
-### 🌈 Story3 - 🌱 The Peddler's Magic Seeds 🌱
+#### 🌈 Story3 - 🌱 The Peddler's Magic Seeds 🌱
 
 Click and read ➡️ https://ea1f1de02b1ef175a5.gradio.live
 
@@ -99,10 +100,18 @@ Click and read ➡️ https://ea1f1de02b1ef175a5.gradio.live
 - allowing input for the correct sequence.
 
 
-## 🌈 Main activity - Reconstructing the Story with Given Keywords 🖋️
+
+
+
+
+## 🌈 Main activity - Reconstructing the Story with given keywords 🖋️
 
 #### 📍 Objectives 
+🗣️ students can develop reading skills by continuing to write stories that fit keywords.
+
 #### 📍 Required Tools 
+
+
 #### 📍 Contents 
 
 
