@@ -59,20 +59,21 @@
 
 ## 🌈 Activity 1 - Sequencing stories using 6-cut cartoons 💥 (24.05.21)
 
-📍 Objectives 
-  1. Students can improve their listening skills by listening to a story narrated with accurate pronunciation by AI.
-  2. Students can gain a clear understanding of the story that will also be used in the main activity.
+#### 📍 Objectives 
+  🗣️ Students can improve their listening skills by listening to a story narrated with accurate pronunciation by AI.
+  🗣️ Students can gain a clear understanding of the story that will also be used in the main activity.
 
 
-📍 Group activities 
+#### 📍 Group activities 
 
  
-📍 Required Tools 
+#### 📍 Required Tools 
   * Hugging Face
-  * Colab
+  * Random 4cut code
+  * ChatGPT
 
 
-📍 Contents 💬
+#### 📍 Contents 💬
 1. The teacher explains the story to the students.
    * Students understand the story through videos.
    * The story video was pre-made by the teacher using a tool called 'Steve I'.
@@ -83,8 +84,13 @@
    * Using ChatGPT to create sentences is also fine.
 4. Students use Hugging Face to generate four images based on the four sentences.
 5. The four images generated are exchanged among groups of students to arrange them in the correct sequence.
-   * We plan to use Google Colab for coding for this activity (not yet finalized).
   
+### 💥 About random 4cut code 
+#### click! ➡️ (그라디오링크삽입)
+
+- A tool that takes four photos created by students, shuffles them randomly
+- allowing input for the correct sequence.
+
 ## < Activity 2> (Writing & Speaking) (Main topic)
 
 ## < Activity 3> (Listening) 
