@@ -58,7 +58,7 @@
 - A tool for students to learn words in an engaging way
 - A game where students guess related words from today's vocabulary based on an image.
 
-## 🌈 Activity 1 - Sequencing stories using 6-cut cartoons 💥 (24.05.21)
+## 🌈 Activity 1 - Sequencing stories using 6-cut cartoons 💥 
 
 #### 📍 Objectives 
   🗣️ Students can improve their listening skills by listening to a story narrated with accurate pronunciation by AI.
@@ -78,6 +78,7 @@
 #### 📍 Contents 
 1. The teacher explains the story to the students.
    * Students understand the story through videos.
+   *  ####  viedo link click! ➡️ (비디오 링크 삽입)
    * The story video was pre-made by the teacher using a tool called 'Steve I'.
 2. After watching the video, students are provided with the summary text.
 3. Students summarize the overall story in four sentences.
@@ -86,9 +87,13 @@
    * Using ChatGPT to create sentences is also fine.
 4. Students use Hugging Face to generate four images based on the four sentences.
 5. The four images generated are exchanged among groups of students to arrange them in the correct sequence.
-  
+
+### 🌈 Story3 - 🌱 The Peddler's Magic Seeds 🌱
+
+Click and read ➡️ https://ea1f1de02b1ef175a5.gradio.live
+
 ### 💥 About random 4cut code 
- #### click! ➡️ (그라디오링크삽입)
+ #### click! ➡️ (그라디오 링크 삽입)
 
 - A tool that takes four photos created by students, shuffles them randomly
 - allowing input for the correct sequence.
@@ -106,3 +111,5 @@
 #### 📍 Objectives 
 #### 📍 Required Tools 
 #### 📍 Contents 
+
+
