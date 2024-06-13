@@ -60,9 +60,11 @@
 - A tool for students to learn words in an engaging way
 - A game where students guess related words from today's vocabulary based on an image.
 
-
-
-
+### 📍 Sample Lesson Script 
+ |role    |script     |
+ |--|--|
+ |Teacher | |
+ |Student ||
 ## 🌈 Activity 1 - Sequencing stories using 6-cut cartoons 💥 
 
 #### 📍 Objectives 
@@ -100,8 +102,11 @@ Click and read ➡️ https://ea1f1de02b1ef175a5.gradio.live
 - allowing input for the correct sequence.
 
 
-
-
+### 📍 Sample Lesson Script 
+ |role    |script     |
+ |--|--|
+ |Teacher | |
+ |Student ||
 
 
 ## 🌈 Main activity - Reconstructing the Story with given keywords 🖋️
@@ -114,11 +119,20 @@ Click and read ➡️ https://ea1f1de02b1ef175a5.gradio.live
 
 #### 📍 Contents 
 
-
+### 📍 Sample Lesson Script 
+ |role    |script     |
+ |--|--|
+ |Teacher | |
+ |Student ||
+ 
 ## 🌈 (Homework???미정) Activity 3 - Audio test 👂🏻
 
 #### 📍 Objectives 
 #### 📍 Required Tools 
 #### 📍 Contents 
-
+### 📍 Sample Lesson Script 
+ |role    |script     |
+ |--|--|
+ |Teacher | |
+ |Student ||
 
