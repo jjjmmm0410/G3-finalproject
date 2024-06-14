@@ -84,7 +84,7 @@
 #### 📍 Contents 
    |order|content|remark|
    |--|--|--|
-   |1|The teacher explains the story to the student through video. | Click the video link! ➡️ (비디오 링크 삽입) |
+   |1|The teacher explains the story to the student through video. | Click the video link! ➡️ (https://youtu.be/uChejcMjbEo?si=Zv2Rj34iJ3vkHhsH) |
    |2| After watching the video, students are provided with the summary text.||
    |3|Students summarize the overall story in four sentences. | ✏️Without using the provided sentences in text. ✏️Write down a          sentence that you've come up with yourself. ✏️Using ChatGPT to create sentences is also fine. |
    |4| Students use Hugging Face to generate four images based on the four sentences.|
