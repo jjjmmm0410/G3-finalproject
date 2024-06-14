@@ -85,7 +85,7 @@
 #### 📍 Contents 
    |order|content|remark|
    |--|--|--|
-   |1|The teacher explains the story to the student through video | Viedo link click! ➡️ (비디오 링크 삽입) |
+   |1|The teacher explains the story to the student through video. | Click the video link! ➡️ (비디오 링크 삽입) |
    |2| After watching the video, students are provided with the summary text.||
    |3|Students summarize the overall story in four sentences. | ✏️Without using the provided sentences in text. ✏️Write down a          sentence that you've come up with yourself. ✏️Using ChatGPT to create sentences is also fine. |
    |4| Students use Hugging Face to generate four images based on the four sentences.|
@@ -96,7 +96,7 @@
 Click and read ➡️ https://ea1f1de02b1ef175a5.gradio.live
 
 ### 💥 About random 4cut code 
- #### click! ➡️ (https://ac86bd2be68a094489.gradio.live/)
+ #### Click! ➡️ (https://ac86bd2be68a094489.gradio.live/)
 
 - A tool that takes four photos created by students, shuffles them randomly
 - allowing input for the correct sequence.
