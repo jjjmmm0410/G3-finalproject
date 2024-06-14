@@ -95,7 +95,7 @@
 Click and read ➡️ https://ea1f1de02b1ef175a5.gradio.live
 
 ### 💥 About random 4cut code 
- #### Click! ➡️ (https://ac86bd2be68a094489.gradio.live/)
+ #### Click! ➡️ (https://07fdfc564d100ca4c8.gradio.live/)
 
 - A tool that takes four photos created by students, shuffles them randomly
 - allowing input for the correct sequence.
