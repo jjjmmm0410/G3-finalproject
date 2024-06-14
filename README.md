@@ -114,7 +114,9 @@ Click and read ➡️ https://ea1f1de02b1ef175a5.gradio.live
 🗣️ Students can develop reading skills by continuing to write stories that fit keywords.
 
 #### 📍 Required Tools 
-
+*ladder 
+*padlet
+*Chat gpt
 
 #### 📍 Contents 
 
