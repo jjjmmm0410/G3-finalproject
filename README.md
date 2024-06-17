@@ -158,7 +158,7 @@
  |order|content|remark|
   |--|--|--|
   |1|  The teacher uploads an audio quiz link to Padlet. ||
-  |2| Students follow the link to listen to an audio and complete a quiz activity.|(오디오 퀴즈 링크)|
+  |2| Students follow the link to listen to an audio and complete a quiz activity.|Click! ➡️ (오디오 퀴즈 링크)|
   
   ### 📍 Sample Lesson Script 
  |role    |script     |
