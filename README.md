@@ -84,7 +84,7 @@
 #### 📍 Contents 
    |order|content|remark|
    |--|--|--|
-   |1|The teacher explains the story to the student through video. | Click the video link! ➡️ (https://youtu.be/uChejcMjbEo?si=Zv2Rj34iJ3vkHhsH) |
+   |1|The teacher explains the story to the student through video. | Click the video link! ➡️ [story video](https://youtu.be/uChejcMjbEo?si=Zv2Rj34iJ3vkHhsH) |
    |2| After watching the video, students are provided with the summary text.||
    |3|Students summarize the overall story in four sentences. | ✏️Without using the provided sentences in text. ✏️Write down a          sentence that you've come up with yourself. ✏️Using ChatGPT to create sentences is also fine. |
    |4| Students use Hugging Face to generate four images based on the four sentences.|
@@ -129,9 +129,9 @@
    |--|--|--|
    |1|Provide keywords for each team through ladder riding. |Click! ➡️ (사다리 코드 링크) |
    |2|Write the ending with keywords for each team.||
-   |3|Compose the conclusion and submit it to the padlet.|Click!➡️ https://padlet.com/mirankim316/digital-literacy-and-english-education-spring-2024-2gmo48o5djxsjpqa|
+   |3|Compose the conclusion and submit it to the padlet.|Click!➡️ [Padlet](https://padlet.com/mirankim316/digital-literacy-and-english-education-spring-2024-2gmo48o5djxsjpqa)|
    |4|Present the conclusion. ||
-   |5|Vote on the best ending among the endings presented by students through a Google Form.|Click!➡️(구글폼링크)|
+   |5|Vote on the best ending among the endings presented by students through a Google Form.|Click!➡️[Google form](https://docs.google.com/forms/d/e/1FAIpQLSfhClmueNXR1tJ202xnnfUL90CL9OyQP0aHOsjNCbYmLQZGXg/viewform?usp=sf_link)|
    
 #### 🌈 Keywords
  ![B447C018-E48A-4756-9C5F-0E17A5C9B6BF_4_5005_c](https://github.com/jjjmmm0410/G3-finalproject/assets/130952709/3b59e2fe-ee45-4b2a-ba5c-e57a24d65eaf)
