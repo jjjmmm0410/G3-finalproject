@@ -64,7 +64,7 @@
  |--|--|
  |Teacher | |
  |Student ||
-## 🌈 Activity 1 - Sequencing stories using 6-cut cartoons 💥 
+## 🌈 Activity 1 - Sequencing stories using 4-cut cartoons💥 
 
 #### 📍 Objectives 
   🗣️ Students can improve their listening skills by listening to a story narrated with accurate pronunciation by AI.
@@ -114,19 +114,25 @@ Click and read ➡️ https://ea1f1de02b1ef175a5.gradio.live
 🗣️ Students can develop reading skills by continuing to write stories that fit keywords.
 
 #### 📍 Required Tools 
-* ladder 
-* padlet
-* Chat gpt
+* Ladder 
+* Padlet (링크 올려놓기) 
+* ChatGPT
 
 #### 📍 Contents 
-
+ |order|content|remark|
+   |--|--|--|
+   |1|Provide keywords for each team through ladder riding. |(사다리 코드 링크) |
+   |2|Write the ending with keywords for each team.|(키워드 사진 개 크게 올리기)|
+   |3|Compose the conclusion and submit it to the paddlet.| (패들렛 링크)|
+   |4|Announcing the conclusion. ||
+   
 ### 📍 Sample Lesson Script 
  |role    |script     |
  |--|--|
  |Teacher | |
  |Student ||
  
-## 🌈 (Homework???미정) Activity 3 - Audio test 👂🏻
+## 🌈 (Homework미정) Activity 3 - Audio test 👂🏻
 
 #### 📍 Objectives 
 #### 📍 Required Tools 
