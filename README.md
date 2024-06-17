@@ -129,7 +129,8 @@
    |1|Provide keywords for each team through ladder riding. |(사다리 코드 링크) |
    |2|Write the ending with keywords for each team.||
    |3|Compose the conclusion and submit it to the paddlet.|Click!➡️ https://padlet.com/mirankim316/digital-literacy-and-english-education-spring-2024-2gmo48o5djxsjpqa|
-   |4|Announcing the conclusion. ||
+   |4|Present the conclusion. ||
+   |5|Vote on the best ending among the endings presented by students through a Google Form.|Click!➡️(구글폼링크)|
    
 #### 🌈 Keywords
  ![B447C018-E48A-4756-9C5F-0E17A5C9B6BF_4_5005_c](https://github.com/jjjmmm0410/G3-finalproject/assets/130952709/3b59e2fe-ee45-4b2a-ba5c-e57a24d65eaf)
