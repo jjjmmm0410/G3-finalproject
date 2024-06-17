@@ -120,15 +120,16 @@
 
 #### 📍 Required Tools 
 * Ladder 
-* Padlet (링크 올려놓기) 
+* Padlet 
 * ChatGPT
+* Google form
 
 #### 📍 Contents 
  |order|content|remark|
    |--|--|--|
-   |1|Provide keywords for each team through ladder riding. |(사다리 코드 링크) |
+   |1|Provide keywords for each team through ladder riding. |Click! ➡️ (사다리 코드 링크) |
    |2|Write the ending with keywords for each team.||
-   |3|Compose the conclusion and submit it to the paddlet.|Click!➡️ https://padlet.com/mirankim316/digital-literacy-and-english-education-spring-2024-2gmo48o5djxsjpqa|
+   |3|Compose the conclusion and submit it to the padlet.|Click!➡️ https://padlet.com/mirankim316/digital-literacy-and-english-education-spring-2024-2gmo48o5djxsjpqa|
    |4|Present the conclusion. ||
    |5|Vote on the best ending among the endings presented by students through a Google Form.|Click!➡️(구글폼링크)|
    
@@ -143,12 +144,23 @@
  |Teacher | |
  |Student ||
  
-## 🌈 (Homework미정) Activity 3 - Audio test 👂🏻
+## 🌈 (Homework) Activity 3 - Audio test 👂🏻
 
 #### 📍 Objectives 
+🗣️ Students can review today's lesson.
+
+🗣️ Students can improve their listening skills.
+
 #### 📍 Required Tools 
+ * Audio test code
+   
 #### 📍 Contents 
-### 📍 Sample Lesson Script 
+ |order|content|remark|
+  |--|--|--|
+  |1|  The teacher uploads an audio quiz link to Padlet. ||
+  |2| Students follow the link to listen to an audio and complete a quiz activity.|(오디오 퀴즈 링크)|
+  
+  ### 📍 Sample Lesson Script 
  |role    |script     |
  |--|--|
  |Teacher | |
