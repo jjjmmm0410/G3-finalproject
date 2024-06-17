@@ -123,7 +123,7 @@ Click and read ➡️ https://ea1f1de02b1ef175a5.gradio.live
    |--|--|--|
    |1|Provide keywords for each team through ladder riding. |(사다리 코드 링크) |
    |2|Write the ending with keywords for each team.||
-   |3|Compose the conclusion and submit it to the paddlet.| (패들렛 링크)|
+   |3|Compose the conclusion and submit it to the paddlet.|Click!➡️ https://padlet.com/mirankim316/digital-literacy-and-english-education-spring-2024-2gmo48o5djxsjpqa|
    |4|Announcing the conclusion. ||
    
 #### 🌈 Keywords
