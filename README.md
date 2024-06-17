@@ -90,15 +90,15 @@
    |4| Students use Hugging Face to generate four images based on the four sentences.|
    |5| The four images generated are exchanged among groups of students to arrange them in the correct sequence.|
 
-#### 🌈 Story3 - 🌱 The Peddler's Magic Seeds 🌱
+#### 🌈 Story 3 - 🌱 The Peddler's Magic Seeds 🌱
 
 Click and read ➡️ https://ea1f1de02b1ef175a5.gradio.live
 
 ### 💥 About random 4cut code 
  #### Click! ➡️ (https://07fdfc564d100ca4c8.gradio.live/)
 
-- A tool that takes four photos created by students, shuffles them randomly
-- allowing input for the correct sequence.
+- A tool that takes four photos created by students, shuffles them randomly.
+- Allowing input for the correct sequence.
 
 
 ### 📍 Sample Lesson Script 
