@@ -122,10 +122,15 @@ Click and read ➡️ https://ea1f1de02b1ef175a5.gradio.live
  |order|content|remark|
    |--|--|--|
    |1|Provide keywords for each team through ladder riding. |(사다리 코드 링크) |
-   |2|Write the ending with keywords for each team.|(키워드 사진 개 크게 올리기)|
+   |2|Write the ending with keywords for each team.||
    |3|Compose the conclusion and submit it to the paddlet.| (패들렛 링크)|
    |4|Announcing the conclusion. ||
    
+#### 🌈 Keywords
+ ![B447C018-E48A-4756-9C5F-0E17A5C9B6BF_4_5005_c](https://github.com/jjjmmm0410/G3-finalproject/assets/130952709/3b59e2fe-ee45-4b2a-ba5c-e57a24d65eaf)
+
+
+ 
 ### 📍 Sample Lesson Script 
  |role    |script     |
  |--|--|
