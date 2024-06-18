@@ -155,14 +155,23 @@
  * Listening test code
    
 #### 📍 Contents 
- |order|content|remark|
-  |--|--|--|
-  |1| The teacher uploads an audio quiz link to Padlet. ||
-  |2| Students follow the link to listen to an audio and complete a quiz activity.|Click! ➡️ (오디오 퀴즈 링크)|
+ |order|content|
+  |--|--|
+  |1| The teacher uploads an audio quiz link to Padlet. |
+  |2| Students follow the link to listen to an audio and complete a quiz activity.|
+
+  |Listening Quiz link✅|
+  |--|
+  |[Quiz1](https://fe192f4b6ccc05a92f.gradio.live)|
+  [Quiz2](https://69818a47b5a7ae960f.gradio.live)|
+  [Quiz3](https://d8df2baef1a6ff932c.gradio.live/)|
+  [Quiz4](https://c914241e4b7bff9162.gradio.live/)|
+  [Quiz5](https://4dd4ae62703ad2a4a4.gradio.live/)|
+
   
   ### 📍 Sample Lesson Script 
- |role    |script     |
+ |role  |script |
  |--|--|
- |Teacher | |
+ |Teacher ||
  |Student ||
 
