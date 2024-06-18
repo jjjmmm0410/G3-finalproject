@@ -49,7 +49,7 @@
  - Words that students are likely unfamiliar with are displayed larger.
 
  ### 🎧About 'word audio file coding' 
- #### Click! ➡️ [https://aecca30cc64a2aeede.gradio.live/](https://b6471180a271dff943.gradio.live)
+ #### Click! ➡️[ [https://aecca30cc64a2aeede.gradio.live/](https://b6471180a271dff943.gradio.live)](https://ab1272f9052bdf5d2a.gradio.live/)
 
  - A tool for learning words not covered in class by the teacher.
  - Students can learn the correct pronunciation and meaning of the words.
@@ -100,7 +100,7 @@
  Years later, Tom, inspired by the peddler, decided to become a peddler himself. He traveled from village to village, selling goods and, most importantly, magic seeds. With each packet of seeds he sold, Tom shared a piece of the joy and wonder he had experienced as a boy. Tom's simple act of buying seeds from a peddler not only changed his life but also brought beauty and unity to many others. The story of the peddler and the magic seeds became a beloved tale in every place Tom visited, reminding people everywhere of the magic that can grow from small beginnings and the importance of sharing and community.|
 
 ### 💥 About random 4cut code 
- #### Click! ➡️ ([https://3af25280985b279569.gradio.live/](https://ddd996bf12f9b5ff69.gradio.live))
+ #### Click! ➡️ [([https://3af25280985b279569.gradio.live/](https://ddd996bf12f9b5ff69.gradio.live))](https://bd2e961825308b1be7.gradio.live/)
 
 - A tool that takes four photos created by students, shuffles them randomly.
 - Allowing input for the correct sequence.
@@ -127,7 +127,7 @@
 #### 📍 Contents 
  |order|content|remark|
    |--|--|--|
-   |1|Provide keywords for each team through Drawing lots. |Click! ➡️ [Drawing lots!](https://138b4de6e94b040ec2.gradio.live/) |
+   |1|Provide keywords for each team through Drawing lots. |Click! ➡️ [Drawing lots!](https://86673299a6c0d6c55c.gradio.live/) |
    |2|Write the ending with keywords for each team.||
    |3|Compose the conclusion and submit it to the padlet.|Click!➡️ [Padlet](https://padlet.com/mirankim316/digital-literacy-and-english-education-spring-2024-2gmo48o5djxsjpqa)|
    |4|Present the conclusion. ||
@@ -162,11 +162,11 @@
 
   |Listening Quiz link✅|
   |--|
-  |[Quiz1](https://6768ef647180299491.gradio.live/)|
-  [Quiz2](https://cb3cd48bb962b34182.gradio.live/)|
-  [Quiz3](https://6c475ed62d03baed36.gradio.live/)|
-  [Quiz4](https://b5948757f928f442e6.gradio.live/)|
-  [Quiz5](https://78466936d36d9912fd.gradio.live/)|
+  |[Quiz1](https://b54b65b2e040358cf9.gradio.live/)|
+  [Quiz2](https://4e80ab38f55b2b1245.gradio.live/)|
+  [Quiz3](https://62aa7b77ab0bf6afa8.gradio.live/)|
+  [Quiz4](https://ed2669878565273d53.gradio.live/)|
+  [Quiz5](https://8ccaaa17864ae4c1e3.gradio.live/)|
 
   
   ### 📍 Sample Lesson Script 
