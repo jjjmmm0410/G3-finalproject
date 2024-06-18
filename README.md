@@ -55,7 +55,7 @@
  - Students can learn the correct pronunciation and meaning of the words.
  
  ### 📷About 'word image game coding'
- #### Click! ➡️ https://cebf5d7a423d56bce0.gradio.live/
+ #### Click! ➡️ [https://cebf5d7a423d56bce0.gradio.live/](https://f5103c876651ff2668.gradio.live/)
 - A tool for students to learn words in an engaging way
 - A game where students guess related words from today's vocabulary based on an image.
 
