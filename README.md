@@ -127,7 +127,7 @@
 #### 📍 Contents 
  |order|content|remark|
    |--|--|--|
-   |1|Provide keywords for each team through Drawing lots. |Click! ➡️ [Drawing lots!](https://a6ceba28a5c9eab6d3.gradio.live) |
+   |1|Provide keywords for each team through Drawing lots. |Click! ➡️ [Drawing lots!](https://138b4de6e94b040ec2.gradio.live/) |
    |2|Write the ending with keywords for each team.||
    |3|Compose the conclusion and submit it to the padlet.|Click!➡️ [Padlet](https://padlet.com/mirankim316/digital-literacy-and-english-education-spring-2024-2gmo48o5djxsjpqa)|
    |4|Present the conclusion. ||
