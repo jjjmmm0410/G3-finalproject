@@ -119,7 +119,7 @@
 🗣️ Students can develop reading skills by continuing to write stories that fit keywords.
 
 #### 📍 Required Tools 
-* Ladder 
+* Drawing lots code 
 * Padlet 
 * ChatGPT
 * Google form
@@ -127,7 +127,7 @@
 #### 📍 Contents 
  |order|content|remark|
    |--|--|--|
-   |1|Provide keywords for each team through ladder riding. |Click! ➡️ (사다리 코드 링크) |
+   |1|Provide keywords for each team through Drawing lots. |Click! ➡️ ([Drawing lots!](https://a6ceba28a5c9eab6d3.gradio.live)) |
    |2|Write the ending with keywords for each team.||
    |3|Compose the conclusion and submit it to the padlet.|Click!➡️ [Padlet](https://padlet.com/mirankim316/digital-literacy-and-english-education-spring-2024-2gmo48o5djxsjpqa)|
    |4|Present the conclusion. ||
@@ -144,7 +144,7 @@
  |Teacher | |
  |Student ||
  
-## 🌈 (Homework) Activity 3 - Audio test 👂🏻
+## 🌈 Activity 3 - Listening test 👂🏻
 
 #### 📍 Objectives 
 🗣️ Students can review today's lesson.
@@ -152,12 +152,12 @@
 🗣️ Students can improve their listening skills.
 
 #### 📍 Required Tools 
- * Audio test code
+ * Listening test code
    
 #### 📍 Contents 
  |order|content|remark|
   |--|--|--|
-  |1|  The teacher uploads an audio quiz link to Padlet. ||
+  |1| The teacher uploads an audio quiz link to Padlet. ||
   |2| Students follow the link to listen to an audio and complete a quiz activity.|Click! ➡️ (오디오 퀴즈 링크)|
   
   ### 📍 Sample Lesson Script 
