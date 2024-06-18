@@ -49,13 +49,13 @@
  - Words that students are likely unfamiliar with are displayed larger.
 
  ### 🎧About 'word audio file coding' 
- #### click! ➡️ https://1567dc0ff8a9eeffeb.gradio.live
+ #### Click! ➡️ https://aecca30cc64a2aeede.gradio.live/
 
  - A tool for learning words not covered in class by the teacher.
  - Students can learn the correct pronunciation and meaning of the words.
  
  ### 📷About 'word image game coding'
- #### click! ➡️ https://07fdfc564d100ca4c8.gradio.live/
+ #### Click! ➡️ https://07fdfc564d100ca4c8.gradio.live/
 - A tool for students to learn words in an engaging way
 - A game where students guess related words from today's vocabulary based on an image.
 
