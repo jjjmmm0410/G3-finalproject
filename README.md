@@ -100,7 +100,7 @@
  Years later, Tom, inspired by the peddler, decided to become a peddler himself. He traveled from village to village, selling goods and, most importantly, magic seeds. With each packet of seeds he sold, Tom shared a piece of the joy and wonder he had experienced as a boy. Tom's simple act of buying seeds from a peddler not only changed his life but also brought beauty and unity to many others. The story of the peddler and the magic seeds became a beloved tale in every place Tom visited, reminding people everywhere of the magic that can grow from small beginnings and the importance of sharing and community.|
 
 ### 💥 About random 4cut code 
- #### Click! ➡️ (https://07fdfc564d100ca4c8.gradio.live/)
+ #### Click! ➡️ (https://3af25280985b279569.gradio.live/)
 
 - A tool that takes four photos created by students, shuffles them randomly.
 - Allowing input for the correct sequence.
