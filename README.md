@@ -1,4 +1,4 @@
-# G3 Final Project 🐳
+# 🍀 G3 Final Project 🍀
 
 ## Assignment of roles
  #### 🎤 Main presenter : Suhyun Cho
