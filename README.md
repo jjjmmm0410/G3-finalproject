@@ -49,7 +49,7 @@
  - Words that students are likely unfamiliar with are displayed larger.
 
  ### 🎧About 'word audio file coding' 
- #### Click! ➡️ https://aecca30cc64a2aeede.gradio.live/
+ #### Click! ➡️ [https://aecca30cc64a2aeede.gradio.live/](https://b6471180a271dff943.gradio.live)
 
  - A tool for learning words not covered in class by the teacher.
  - Students can learn the correct pronunciation and meaning of the words.
@@ -84,7 +84,7 @@
 #### 📍 Contents 
    |order|content|remark|
    |--|--|--|
-   |1|The teacher explains the story to the student through video. | Click the video link! ➡️ [story vide] (https://youtu.be/eYZdqrPNmLg?si=_ZOQimezGxTTf3kE) |
+   |1|The teacher explains the story to the student through video. | Click the video link! ➡️ [story vide](https://youtu.be/eYZdqrPNmLg?si=_ZOQimezGxTTf3kE) |
    |2| After watching the video, students are provided with the summary text.||
    |3|Students summarize the overall story in four sentences. | ✏️Without using the provided sentences in text. ✏️Write down a          sentence that you've come up with yourself. ✏️Using ChatGPT to create sentences is also fine. |
    |4| Students use Hugging Face to generate four images based on the four sentences.|
@@ -100,7 +100,7 @@
  Years later, Tom, inspired by the peddler, decided to become a peddler himself. He traveled from village to village, selling goods and, most importantly, magic seeds. With each packet of seeds he sold, Tom shared a piece of the joy and wonder he had experienced as a boy. Tom's simple act of buying seeds from a peddler not only changed his life but also brought beauty and unity to many others. The story of the peddler and the magic seeds became a beloved tale in every place Tom visited, reminding people everywhere of the magic that can grow from small beginnings and the importance of sharing and community.|
 
 ### 💥 About random 4cut code 
- #### Click! ➡️ (https://3af25280985b279569.gradio.live/)
+ #### Click! ➡️ ([https://3af25280985b279569.gradio.live/](https://ddd996bf12f9b5ff69.gradio.live))
 
 - A tool that takes four photos created by students, shuffles them randomly.
 - Allowing input for the correct sequence.
@@ -163,10 +163,10 @@
   |Listening Quiz link✅|
   |--|
   |[Quiz1](https://6768ef647180299491.gradio.live/)|
-  [Quiz2](https://69818a47b5a7ae960f.gradio.live)|
-  [Quiz3](https://d8df2baef1a6ff932c.gradio.live/)|
-  [Quiz4](https://c914241e4b7bff9162.gradio.live/)|
-  [Quiz5](https://4dd4ae62703ad2a4a4.gradio.live/)|
+  [Quiz2](https://cb3cd48bb962b34182.gradio.live/)|
+  [Quiz3](https://6c475ed62d03baed36.gradio.live/)|
+  [Quiz4](https://b5948757f928f442e6.gradio.live/)|
+  [Quiz5](https://78466936d36d9912fd.gradio.live/)|
 
   
   ### 📍 Sample Lesson Script 
