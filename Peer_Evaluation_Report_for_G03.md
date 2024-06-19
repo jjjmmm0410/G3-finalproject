@@ -1,6 +1,6 @@
 # 💙💖 Peer Evaluation & Presentation Review for Group 3 (1PM, 0619, by MK316)
 
-+ Group 3, your creative integration of technology in the language learning classroom has been commendably effective, as reflected in the peer feedback and assessment scores. The use of visual aids and interactive vocabulary tools that employ pre-selected words for pronunciation and definition learning was notably innovative and beneficial. Your lesson design, which includes diverse and engaging activities, clearly resonates well with students, fostering both enthusiasm and active participation.
+Your creative integration of technology in the language learning classroom has been commendably effective, as reflected in the peer feedback and assessment scores. The use of visual aids and interactive vocabulary tools that employ pre-selected words for pronunciation and definition learning was notably innovative and beneficial. Your lesson design, which includes diverse and engaging activities, clearly resonates well with students, fostering both enthusiasm and active participation.
   
 + The strength of your presentation (see the figure below) lies in its stimulation, integration, and the presentation with which you presented your ideas. These elements, highlighted in orange in the evaluation, reflect your ability to make the lesson accessible and engaging to all students, ensuring that each one could follow along and benefit from the activities irrespective of their initial skill levels.
 
