@@ -8,7 +8,7 @@ Your creative integration of technology in the language learning classroom has b
 
 + Your group’s ability to use group activities to stimulate student participation was particularly effective. Nonetheless, maintaining a professional demeanor during presentations could strengthen the perceived seriousness and effectiveness of your educational approach.
 
-+ Overall, your innovative use of technology and the structured yet flexible approach to teaching were well-received. Keep focusing on these strengths while considering the feedback to refine your teaching strategies further. Excellent work, Group 3!
+Overall, your innovative use of technology and the structured yet flexible approach to teaching were well-received. Keep focusing on these strengths while considering the feedback to refine your teaching strategies further. Excellent work, Group 3!
 
 ## [1] Quantitative summary of each aspect (Q1~Q10)
 
