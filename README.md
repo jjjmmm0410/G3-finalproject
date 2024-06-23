@@ -14,8 +14,8 @@
  |3 |24.06.04|We discussed the details of the main activity and deliberated on what code to use for each activity.|
  |4 |24.06.10|We wrote the presentation script and then had a session where everyone shared the code they had prepared.|
  |5 |24.06.17|We finished by doing a final rehearsal of the presentation and then wrapped things up.|
-
-## 🧑🏻‍🏫 Overall lesson objectives 
+ |6 |24.06.23|We have considered the feedback from my professor and colleagues to identify what was lacking, and We have revised the code accordingly.|fixing the issue where correct answers were marked as incorrect. Updating the interface to use a Hugging Face link without execution time limits. |
+ ## 🧑🏻‍🏫 Overall lesson objectives 
 
 🗣️ Students will be able to ﹒﹒﹒
 
@@ -62,8 +62,10 @@
 ### 📍 Sample Lesson Script 
  |role    |script     |
  |--|--|
- |Teacher | |
- |Student ||
+ |Teacher |Students, shall we look at the word cloud together? Jungmin, can you read the first three words that catch your eyes?
+ |Student |Lush, nestle, hardy!|
+
+
 ## 🌈 Activity 1 - Sequencing stories using 4-cut cartoons💥 
 
 #### 📍 Objectives 
@@ -109,11 +111,14 @@
 ### 📍 Sample Lesson Script 
  |role    |script     |
  |--|--|
- |Teacher | |
- |Student ||
-
-
-## 🌈 Main activity - Reconstructing the Story with given keywords 🖋️
+ |Teacher |Did you understand the plots of this story? Now, let’s do an activity to summarize the story. Let's remember the video we just watched and summarize the plot in four sentences. Of course, you can also use ChatGPT. However, you should not use what is in the text as is.|
+ |Student |I summarized the plot in four sentences. What should I do?|
+ |Teacher |Go to Hugging Face and enter the sentences to create four pictures. |
+ |Teacher| Group 2 created and submitted very good pictures. Then, I will insert this into this code and arrange it randomly. Shall the other group members look at the screen and arrange these pictures?|
+ |Student| Yes, I can. I think the correct order will be 1,2,3,4.|
+ 
+ 
+ ## 🌈 Main activity - Reconstructing the Story with given keywords 🖋️
 
 #### 📍 Objectives 
 🗣️ Students can develop reading skills by continuing to write stories that fit keywords.
@@ -141,8 +146,10 @@
 ### 📍 Sample Lesson Script 
  |role    |script     |
  |--|--|
- |Teacher | |
- |Student ||
+ |Teacher |Now, we will reconstruct the story in each group using these four keywords. Keywords will be selected using the drawing lots code.|
+ |Student | I finished reconstructing the ending. Where can I submit it?|
+ |Teacher | Please submit it to Pedlet! I think we're almost done, so we'll take the time to present the endings made for each group.|
+ |Teacher |From now on, please vote for the story that impressed you the most among the four endings posted on Padlet. I posted a Google form, so please follow the Google form link and vote!|
  
 ## 🌈 Activity 3 - Listening test 👂🏻
 
@@ -172,6 +179,7 @@
   ### 📍 Sample Lesson Script 
  |role  |script |
  |--|--|
- |Teacher ||
- |Student ||
+ |Teacher| The next activity is a listening test, and I've also posted a link to Pedlet, so let's go in and take the time to solve it. Everyone brought the earphones I announced last time, right?|
+ |Student |(After listenig the quiz) I think the answer is number one! |
+
 
