@@ -86,7 +86,7 @@
 #### 📍 Contents 
    |order|content|remark|
    |--|--|--|
-   |1|The teacher explains the story to the student through video. | Click the video link! ➡️ [story vide](https://youtu.be/eYZdqrPNmLg?si=_ZOQimezGxTTf3kE) |
+   |1|The teacher explains the story to the student through video. | Click the video link! ➡️ [story video](https://youtu.be/eYZdqrPNmLg?si=_ZOQimezGxTTf3kE) |
    |2| After watching the video, students are provided with the summary text.||
    |3|Students summarize the overall story in four sentences. | ✏️Without using the provided sentences in text. ✏️Write down a          sentence that you've come up with yourself. ✏️Using ChatGPT to create sentences is also fine. |
    |4| Students use Hugging Face to generate four images based on the four sentences.|
@@ -132,7 +132,7 @@
 #### 📍 Contents 
  |order|content|remark|
    |--|--|--|
-   |1|Provide keywords for each team through Drawing lots. |Click! ➡️ [Drawing lots!]_(https://huggingface.co/spaces/JM0410/Drawing_lots)|
+   |1|Provide keywords for each team through Drawing lots. |Click! ➡️ [Drawing lots!] (https://huggingface.co/spaces/JM0410/Drawing_lots)|
    |2|Write the ending with keywords for each team.||
    |3|Compose the conclusion and submit it to the padlet.|Click!➡️ [Padlet](https://padlet.com/mirankim316/digital-literacy-and-english-education-spring-2024-2gmo48o5djxsjpqa)|
    |4|Present the conclusion. ||
@@ -172,7 +172,6 @@
   |[Story Comprehension Quiz1](https://huggingface.co/spaces/JM0410/Listening_test_ST1)|
   [Story Comprehension Quiz2](https://huggingface.co/spaces/JM0410/Listening_test_ST2)|
   [Story Comprehension Quiz3](https://huggingface.co/spaces/JM0410/Listening_test_ST3)|
-
   [Vocabulary Exercise Quiz1](https://huggingface.co/spaces/JM0410/Listening_test_VE1)|
   [Vocabulary Exercise Quiz2](https://huggingface.co/spaces/JM0410/Listening_test_VE2)|
 
