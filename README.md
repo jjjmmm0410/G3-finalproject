@@ -107,6 +107,12 @@
 - A tool that takes four photos created by students, shuffles them randomly.
 - Allowing input for the correct sequence.
 
+![image](https://github.com/jjjmmm0410/G3-finalproject/assets/162291924/ceec6e91-c054-41e6-a603-4d17f2df6df7)
+![image](https://github.com/jjjmmm0410/G3-finalproject/assets/162291924/90e93f3a-acff-4a5d-bfdd-24cfa6736663)
+![image](https://github.com/jjjmmm0410/G3-finalproject/assets/162291924/668f11e2-9bd3-4987-9b9f-f2d79e9650e9)
+![image](https://github.com/jjjmmm0410/G3-finalproject/assets/162291924/ecbafab0-c4f9-4e10-97f7-84cb5bec5782)
+
+
 
 ### 📍 Sample Lesson Script 
  |role    |script     |
