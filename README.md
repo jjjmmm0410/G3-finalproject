@@ -189,3 +189,10 @@
  |Student |(After listenig the quiz) I think the answer is number one! |
 
 
+## 🌈 Time plan
+|order|content|time|
+|--|--|--|
+|1|Warm up activity|10m|
+|2|Activity 1|10m|
+|3|Activity 2|20m|
+|4|Activity 3|10m|
